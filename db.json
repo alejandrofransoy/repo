@@ -1,102 +1,99 @@
 {
-    "pharmacies": [
-        {
+    "pharmacies": [{
             "name": "Farmacia Microcentro",
             "profilePic": "assets/img/pharmacies/pharmacy1.jpg",
             "about": "Abierto de 9hs a 22hs.",
-			"phone": "43021082",
-			"direccion": {
-				"calle": "San Antonio",
-				"numero": "750",
-				"localidad": "CABA",
-				"cod_postal": "1276",
-				"lat": "-34.6441278",
-				"lng": "-58.3770198"
-			}			
+            "phone": "43021082",
+            "direccion": {
+                "calle": "San Antonio",
+                "numero": "750",
+                "localidad": "CABA",
+                "cod_postal": "1276",
+                "lat": "-34.6441278",
+                "lng": "-58.3770198"
+            }
         },
         {
             "name": "Farmacia la Homeopática de Liniers",
             "profilePic": "assets/img/pharmacies/pharmacy2.jpg",
             "about": "Abierto de 11hs a 00hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Farmacia Belén Sanz",
             "profilePic": "assets/img/pharmacies/pharmacy3.jpg",
             "about": "Abierto las 24hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Farmacia Manes",
             "profilePic": "assets/img/pharmacies/pharmacy4.jpg",
             "about": "Abierto de 10hs a 17hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Farmacia Santa Catalina",
             "profilePic": "assets/img/pharmacies/pharmacy5.jpg",
             "about": "Abierto de 9hs a 23hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Farmacia Coll",
             "profilePic": "assets/img/pharmacies/pharmacy6.jpg",
             "about": "Abierto de 6hs a 14hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Farmacia Mas Natural",
             "profilePic": "assets/img/pharmacies/pharmacy7.jpg",
             "about": "Abierto de 9hs a 22hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         }
     ],
-    "funerals": [
-        {
+    "funerals": [{
             "name": "Sepelio Microcentro",
             "profilePic": "assets/img/pharmacies/pharmacy1.jpg",
             "about": "Abierto de 9hs a 22hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Sepelio la Homeopática de Liniers",
             "profilePic": "assets/img/pharmacies/pharmacy2.jpg",
             "about": "Abierto de 11hs a 00hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Sepelio Belén",
             "profilePic": "assets/img/pharmacies/pharmacy3.jpg",
             "about": "Abierto las 24hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Sepelio Manes",
             "profilePic": "assets/img/pharmacies/pharmacy4.jpg",
             "about": "Abierto de 10hs a 17hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Sepelio Santa Catalina",
             "profilePic": "assets/img/pharmacies/pharmacy5.jpg",
             "about": "Abierto de 9hs a 23hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Sepelio Coll",
             "profilePic": "assets/img/pharmacies/pharmacy6.jpg",
             "about": "Abierto de 6hs a 14hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "name": "Sepelio Mas Natural",
             "profilePic": "assets/img/pharmacies/pharmacy7.jpg",
             "about": "Abierto de 9hs a 22hs.",
-			"phone": "43021082"
+            "phone": "43021082"
         }
     ],
-    "campings": [
-        {
+    "campings": [{
             "user": {
                 "avatar": "assets/img/campings/camping1.jpg",
                 "name": "Brisas de las Sierras"
@@ -104,7 +101,7 @@
             "location": "Mar del Plata, Buenos Aires",
             "image": "assets/img/campings/camping1.jpg",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "user": {
@@ -114,7 +111,7 @@
             "location": "Burzaco, Buenos Aires",
             "image": "assets/img/campings/camping2.jpg",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "user": {
@@ -124,7 +121,7 @@
             "location": "San Pedro, Buenos Aires",
             "image": "assets/img/campings/camping3.jpg",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "user": {
@@ -134,11 +131,10 @@
             "location": "San Antonio de Areco, Buenos Aires",
             "image": "assets/img/campings/camping4.jpg",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
-			"phone": "43021082"
+            "phone": "43021082"
         }
     ],
-    "hotels": [
-        {
+    "hotels": [{
             "user": {
                 "avatar": "assets/img/hotels/hotel1.jpg",
                 "name": "Hotel Residencial de Mar del Plata"
@@ -146,7 +142,7 @@
             "location": "Mar del Plata, Buenos Aires",
             "image": "assets/img/hotels/hotel1.jpg",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "user": {
@@ -156,7 +152,7 @@
             "location": "Huerta Grande, Córdoba",
             "image": "assets/img/hotels/hotel2.jpg",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "user": {
@@ -166,7 +162,7 @@
             "location": "Villa Elisa, Buenos Aires",
             "image": "assets/img/hotels/hotel3.jpg",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
-			"phone": "43021082"
+            "phone": "43021082"
         },
         {
             "user": {
@@ -176,7 +172,35 @@
             "location": "Escobar, Buenos Aires",
             "image": "assets/img/hotels/hotel4.jpg",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
-			"phone": "43021082"
+            "phone": "43021082"
         }
+    ],
+    "noticias": [{
+            "image_url": "assets/img/noticias/sindicato.jpg",
+            "fecha_publicacion": "2 de octubre 2017",
+            "descripcion": "Paro general para mañana!"
+        },
+        {
+            "image_url": "assets/img/noticias/sindicato.jpg",
+            "fecha_publicacion": "17 de agosto 2017",
+            "descripcion": "Buen fin de semana!"
+        },
+        {
+            "image_url": "assets/img/noticias/sindicato.jpg",
+            "fecha_publicacion": "5 de octubre 2017",
+            "descripcion": "Nuevos beneficios para vos"
+        },
+        {
+            "image_url": "assets/img/noticias/sindicato.jpg",
+            "fecha_publicacion": "11 de diciembre 2017",
+            "descripcion": "Buena semana!"
+        },
+        {
+            "image_url": "assets/img/noticias/sindicato.jpg",
+            "fecha_publicacion": "30 de marzo 2017",
+            "descripcion": "Que descanses!"
+        }
+
+
     ]
 }
