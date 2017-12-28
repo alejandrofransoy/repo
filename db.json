@@ -175,32 +175,6 @@
             "phone": "43021082"
         }
     ],
-    "noticias": [{
-            "image_url": "assets/img/noticias/sindicato.jpg",
-            "fecha_publicacion": "2 de octubre 2017",
-            "descripcion": "Paro general para mañana!"
-        },
-        {
-            "image_url": "assets/img/noticias/sindicato.jpg",
-            "fecha_publicacion": "17 de agosto 2017",
-            "descripcion": "Buen fin de semana!"
-        },
-        {
-            "image_url": "assets/img/noticias/sindicato.jpg",
-            "fecha_publicacion": "5 de octubre 2017",
-            "descripcion": "Nuevos beneficios para vos"
-        },
-        {
-            "image_url": "assets/img/noticias/sindicato.jpg",
-            "fecha_publicacion": "11 de diciembre 2017",
-            "descripcion": "Buena semana!"
-        },
-        {
-            "image_url": "assets/img/noticias/sindicato.jpg",
-            "fecha_publicacion": "30 de marzo 2017",
-            "descripcion": "Que descanses!"
-        }
-    ],
     "mensajes": [{
             "id": "1",
             "afiliado": {
