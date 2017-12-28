@@ -200,7 +200,72 @@
             "fecha_publicacion": "30 de marzo 2017",
             "descripcion": "Que descanses!"
         }
-
-
+    ],
+    "mensajes": [{
+            "id": "1",
+            "afiliado": {
+                "id": 1
+            },
+            "type": "pregunta",
+            "texto": "Esta es una pregunta",
+            "leido": true,
+            "createdAt": "2017-12-11T15:11:14.000Z",
+            "updatedAt": "2017-12-11T15:11:14.000Z"
+        },
+        {
+            "id": "2",
+            "afiliado": {
+                "id": 1
+            },
+            "type": "respuesta",
+            "texto": "Esta es una respuesta",
+            "leido": true,
+            "createdAt": "2017-12-11T15:11:14.000Z",
+            "updatedAt": "2017-12-11T15:11:14.000Z"
+        },
+        {
+            "id": "3",
+            "afiliado": {
+                "id": 1
+            },
+            "type": "pregunta",
+            "texto": "Esta es una pregunta",
+            "leido": true,
+            "createdAt": "2017-12-11T15:11:14.000Z",
+            "updatedAt": "2017-12-11T15:11:14.000Z"
+        },
+        {
+            "id": "4",
+            "afiliado": {
+                "id": 1
+            },
+            "type": "respuesta",
+            "texto": "Esta es una respuesta",
+            "leido": true,
+            "createdAt": "2017-12-11T15:11:14.000Z",
+            "updatedAt": "2017-12-11T15:11:14.000Z"
+        },
+        {
+            "id": "5",
+            "afiliado": {
+                "id": 1
+            },
+            "type": "pregunta",
+            "texto": "Esta es una pregunta",
+            "leido": true,
+            "createdAt": "2017-12-11T15:11:14.000Z",
+            "updatedAt": "2017-12-11T15:11:14.000Z"
+        },
+        {
+            "id": "6",
+            "afiliado": {
+                "id": 1
+            },
+            "type": "respuesta",
+            "texto": "Esta es una respuesta",
+            "leido": true,
+            "createdAt": "2017-12-11T15:11:14.000Z",
+            "updatedAt": "2017-12-11T15:11:14.000Z"
+        }
     ]
 }
