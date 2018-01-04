@@ -187,7 +187,7 @@
         },
         {
             "user": {
-                "avatar": "assets/img/activities/activity1.jpg",
+                "avatar": "assets/img/activities/activity2.jpg",
                 "name": "Excursión Zoológico"
             },
             "location": "Campana",
@@ -197,7 +197,7 @@
         },
         {
             "user": {
-                "avatar": "assets/img/activities/activity1.jpg",
+                "avatar": "assets/img/activities/activity3.jpg",
                 "name": "Día de Campo"
             },
             "location": "Ezeiza",
@@ -207,7 +207,7 @@
         },
         {
             "user": {
-                "avatar": "assets/img/activities/activity1.jpg",
+                "avatar": "assets/img/activities/activity4.jpg",
                 "name": "Donaciones en Villa 31"
             },
             "location": "Retiro",
