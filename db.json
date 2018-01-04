@@ -175,71 +175,45 @@
             "phone": "43021082"
         }
     ],
-    "mensajes": [{
-            "id": "1",
-            "afiliado": {
-                "id": 1
+    "activities": [{
+            "user": {
+                "avatar": "assets/img/activities/activity1.jpg",
+                "name": "Maratón Puerto Madero"
             },
-            "type": "pregunta",
-            "texto": "Esta es una pregunta",
-            "leido": true,
-            "createdAt": "2017-12-11T15:11:14.000Z",
-            "updatedAt": "2017-12-11T15:11:14.000Z"
+            "location": "Puerto Madero",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.7823004125394!2d-58.364681684273386!3d-34.60966606532082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a335285986aa5f%3A0xaf6e099066fbaa76!2sTorres+El+Mirador+de+Puerto+Madero%2C+Buenos+Aires!5e0!3m2!1ses!2sar!4v1515039849950",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
+            "mail": "info@actividad.com"
         },
         {
-            "id": "2",
-            "afiliado": {
-                "id": 1
+            "user": {
+                "avatar": "assets/img/activities/activity1.jpg",
+                "name": "Excursión Zoológico"
             },
-            "type": "respuesta",
-            "texto": "Esta es una respuesta",
-            "leido": true,
-            "createdAt": "2017-12-11T15:11:14.000Z",
-            "updatedAt": "2017-12-11T15:11:14.000Z"
+            "location": "Campana",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.7823004125394!2d-58.364681684273386!3d-34.60966606532082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a335285986aa5f%3A0xaf6e099066fbaa76!2sTorres+El+Mirador+de+Puerto+Madero%2C+Buenos+Aires!5e0!3m2!1ses!2sar!4v1515039849950",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
+            "mail": "info@actividad.com"
         },
         {
-            "id": "3",
-            "afiliado": {
-                "id": 1
+            "user": {
+                "avatar": "assets/img/activities/activity1.jpg",
+                "name": "Día de Campo"
             },
-            "type": "pregunta",
-            "texto": "Esta es una pregunta",
-            "leido": true,
-            "createdAt": "2017-12-11T15:11:14.000Z",
-            "updatedAt": "2017-12-11T15:11:14.000Z"
+            "location": "Ezeiza",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.7823004125394!2d-58.364681684273386!3d-34.60966606532082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a335285986aa5f%3A0xaf6e099066fbaa76!2sTorres+El+Mirador+de+Puerto+Madero%2C+Buenos+Aires!5e0!3m2!1ses!2sar!4v1515039849950",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
+            "mail": "info@actividad.com"
         },
         {
-            "id": "4",
-            "afiliado": {
-                "id": 1
+            "user": {
+                "avatar": "assets/img/activities/activity1.jpg",
+                "name": "Donaciones en Villa 31"
             },
-            "type": "respuesta",
-            "texto": "Esta es una respuesta",
-            "leido": true,
-            "createdAt": "2017-12-11T15:11:14.000Z",
-            "updatedAt": "2017-12-11T15:11:14.000Z"
-        },
-        {
-            "id": "5",
-            "afiliado": {
-                "id": 1
-            },
-            "type": "pregunta",
-            "texto": "Esta es una pregunta",
-            "leido": true,
-            "createdAt": "2017-12-11T15:11:14.000Z",
-            "updatedAt": "2017-12-11T15:11:14.000Z"
-        },
-        {
-            "id": "6",
-            "afiliado": {
-                "id": 1
-            },
-            "type": "respuesta",
-            "texto": "Esta es una respuesta",
-            "leido": true,
-            "createdAt": "2017-12-11T15:11:14.000Z",
-            "updatedAt": "2017-12-11T15:11:14.000Z"
+            "location": "Retiro",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.7823004125394!2d-58.364681684273386!3d-34.60966606532082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a335285986aa5f%3A0xaf6e099066fbaa76!2sTorres+El+Mirador+de+Puerto+Madero%2C+Buenos+Aires!5e0!3m2!1ses!2sar!4v1515039849950",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue vestibulum porttitor. Phasellus ac bibendum arcu. Integer semper rhoncus porttitor.",
+            "mail": "info@actividad.com"
         }
     ]
 }
